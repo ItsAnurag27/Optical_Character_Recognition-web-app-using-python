@@ -22,3 +22,4 @@ For running this project go to the terminal and following code 👆🏻.
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/43bb2463-dc96-4b43-82fd-8d979cb086fd)
 ![Screenshot (2)](https://github.com/user-attachments/assets/7794571a-f5c5-4d84-8364-3fa2f5635052)
+![hindi](https://github.com/user-attachments/assets/0698d328-7ca3-4f61-b134-741fe7307a78)
